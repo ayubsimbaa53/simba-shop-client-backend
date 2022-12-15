@@ -1,0 +1,4 @@
+# dependencies
+/node_modules
+/admin/server/node_modules
+/admin/server/client/node_modules
